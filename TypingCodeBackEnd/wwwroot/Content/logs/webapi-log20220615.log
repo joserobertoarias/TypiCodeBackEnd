@@ -311,3 +311,13 @@ System.IO.IOException: The process cannot access the file 'C:\Users\jarias\sourc
 [  INF]  Obteniendo posts del usuario id: 2
 [  INF]  Obteniendo comments del post id: 13
 [  INF]  Obteniendo posts del usuario id: 2
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypiCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypiCodeBackEnd\TypingCodeBackEnd\

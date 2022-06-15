@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4z9tVXChbn6GdO05LfU49mnWBvLq5t7RteJmMwMwDVQ=",
+  "Hash": "5CD1JLjtK04jJGD1hUJ/vBdvlwqI5nCXbGOAsZ+ZnVo=",
   "Source": "TypingCodeBackEnd",
   "BasePath": "_content/TypingCodeBackEnd",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TypingCodeBackEnd\\wwwroot",
       "Source": "TypingCodeBackEnd",
-      "ContentRoot": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\",
       "BasePath": "_content/TypingCodeBackEnd",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\Content\\logs\\webapi-log20220614",
+      "Identity": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\Content\\logs\\webapi-log20220614",
       "SourceId": "TypingCodeBackEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\",
       "BasePath": "_content/TypingCodeBackEnd",
       "RelativePath": "Content/logs/webapi-log20220614",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\logs\\webapi-log20220614"
     },
     {
-      "Identity": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\Content\\logs\\webapi-log20220615.log",
+      "Identity": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\Content\\logs\\webapi-log20220615.log",
       "SourceId": "TypingCodeBackEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\",
       "BasePath": "_content/TypingCodeBackEnd",
       "RelativePath": "Content/logs/webapi-log20220615.log",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\logs\\webapi-log20220615.log"
     },
     {
-      "Identity": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\Content\\logs\\webapi-log20220615.txt",
+      "Identity": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\Content\\logs\\webapi-log20220615.txt",
       "SourceId": "TypingCodeBackEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\wwwroot\\",
       "BasePath": "_content/TypingCodeBackEnd",
       "RelativePath": "Content/logs/webapi-log20220615.txt",
       "AssetKind": "All",

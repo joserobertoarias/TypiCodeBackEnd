@@ -3795,11 +3795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\TypingCodeBackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\TypingCodeBackEnd.csproj",
       "projectName": "TypingCodeBackEnd",
-      "projectPath": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\TypingCodeBackEnd.csproj",
+      "projectPath": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\TypingCodeBackEnd.csproj",
       "packagesPath": "C:\\Users\\jarias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jarias\\source\\repos\\TypingCodeBackEnd\\TypingCodeBackEnd\\obj\\",
+      "outputPath": "C:\\Users\\jarias\\source\\repos\\TypiCodeBackEnd\\TypingCodeBackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
