@@ -1,0 +1,116 @@
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo todos los posts
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Obteniendo posts del usuario id: 2
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo posts del usuario id: 1
+[  ERR]  An unhandled exception has occurred while executing the request.
+Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'TypingCodeBackEnd.Models.Post' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at TypingCodeBackEnd.Controllers.UsersController.Get(Int32 id) in C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\Controllers\UsersController.cs:line 52
+   at lambda_method6(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo comments del post id: 1
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Obteniendo comments del post id: 1
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Obteniendo posts del usuario id: 1
+[  INF]  Now listening on: https://localhost:7117
+[  INF]  Now listening on: http://localhost:5009
+[  INF]  Application started. Press Ctrl+C to shut down.
+[  INF]  Hosting environment: Development
+[  INF]  Content root path: C:\Users\jarias\source\repos\TypingCodeBackEnd\TypingCodeBackEnd\
+[  INF]  Obteniendo fotos del usuario id:  1
