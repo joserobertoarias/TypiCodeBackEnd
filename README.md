@@ -20,5 +20,11 @@ This is an ASP .Net Core Web API back-end to consume end points from https://jso
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/joserobertoarias/TypiCodeBackEnd/blob/main/TypingCodeBackEnd/wwwroot/Content/Screenshot_1.jpg)
 
+
+## Demo
+
+Insert gif or link to demo
+
+https://typingcodebackend.azurewebsites.net/swagger/index.html

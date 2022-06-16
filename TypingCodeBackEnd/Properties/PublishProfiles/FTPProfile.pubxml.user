@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJWmdJLL8nEyhQQXYS1BRAQAAAAACAAAAAAADZgAAwAAAABAAAACNc/0ps8r5tmSFYg4oXWjrAAAAAASAAACgAAAAEAAAAM/aDPqji1YUXSdfqDSLafIYAAAAut+PHHNm27g4DMcIS/gP3W7Xw4OzpKxZFAAAAJzI0LIL61Kask7sJYbrm4QoA64R</EncryptedPassword>
+    <_PublishTargetUrl>ftp://win8031.site4now.net/webapp</_PublishTargetUrl>
+    <History>True|2022-06-16T21:20:09.3405127Z;True|2022-06-16T13:42:14.0778454-06:00;True|2022-06-16T12:41:32.1187245-06:00;True|2022-06-16T12:23:55.8184261-06:00;True|2022-06-16T12:09:10.2878972-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/11/2022 08:46:29</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/15/2022 11:32:27</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>09/13/2019 09:12:44</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 20:14:12</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 14:03:36</publishTime>
+    </File>
+    <File Include="Serilog.AspNetCore.dll">
+      <publishTime>02/15/2022 16:02:56</publishTime>
+    </File>
+    <File Include="Serilog.dll">
+      <publishTime>09/09/2020 20:20:18</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Hosting.dll">
+      <publishTime>11/08/2021 16:00:30</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Logging.dll">
+      <publishTime>11/01/2021 15:38:50</publishTime>
+    </File>
+    <File Include="Serilog.Formatting.Compact.dll">
+      <publishTime>10/16/2019 23:18:46</publishTime>
+    </File>
+    <File Include="Serilog.Settings.Configuration.dll">
+      <publishTime>10/07/2021 02:46:44</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.Console.dll">
+      <publishTime>11/18/2021 18:04:50</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.Debug.dll">
+      <publishTime>02/14/2021 01:47:26</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.File.dll">
+      <publishTime>06/25/2021 02:00:48</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 06:54:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 06:54:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 06:54:30</publishTime>
+    </File>
+    <File Include="TypingCodeBackEnd.deps.json">
+      <publishTime>06/16/2022 15:19:51</publishTime>
+    </File>
+    <File Include="TypingCodeBackEnd.dll">
+      <publishTime>06/16/2022 15:19:51</publishTime>
+    </File>
+    <File Include="TypingCodeBackEnd.exe">
+      <publishTime>06/16/2022 15:19:51</publishTime>
+    </File>
+    <File Include="TypingCodeBackEnd.pdb">
+      <publishTime>06/16/2022 15:19:51</publishTime>
+    </File>
+    <File Include="TypingCodeBackEnd.runtimeconfig.json">
+      <publishTime>06/16/2022 12:08:04</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/16/2022 15:19:55</publishTime>
+    </File>
+    <File Include="wwwroot/Content/logs/webapi-log20220614">
+      <publishTime>06/14/2022 17:42:24</publishTime>
+    </File>
+    <File Include="wwwroot/Content/logs/webapi-log20220615.log">
+      <publishTime>06/15/2022 16:27:15</publishTime>
+    </File>
+    <File Include="wwwroot/Content/logs/webapi-log20220615.txt">
+      <publishTime>06/15/2022 11:24:19</publishTime>
+    </File>
+    <File Include="wwwroot/Content/logs/webapi-log20220616.log">
+      <publishTime>06/16/2022 14:03:15</publishTime>
+    </File>
+    <File Include="wwwroot/Content/Screenshot_1.jpg">
+      <publishTime>06/15/2022 16:31:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
