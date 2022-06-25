@@ -25,6 +25,4 @@ This is an ASP .Net Core Web API back-end to consume end points from https://jso
 
 ## Demo
 
-Insert gif or link to demo
-
-https://typingcodebackend.azurewebsites.net/swagger/index.html
+http://joserobertoarias-001-site1.itempurl.com/swagger/index.html
